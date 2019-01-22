@@ -26,4 +26,7 @@ Payments with Stripe or Square
 ### What I'll Have to Learn
 Include what you will need to learn here
 Some of these features will be old ideas with MV pattern of contructs, but I will have to learn new technology and frameworks.
-Newly learned features will be a shopping cart, AuthoIO, Building in GraphQL, generating PDF's on the fly (Server Side) and handeling payments. 
+Newly learned features will be a shopping cart, Authorization IO, Building in GraphQL, generating PDF's on the fly (Server Side) and handeling payments. 
+
+
+Link for Project: https://www.pivotaltracker.com/n/projects/2239228 
