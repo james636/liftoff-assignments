@@ -14,12 +14,12 @@ For this assignment, you'll create some initial plans for your project.
 
 Six wireframes were added to demo pages: 
 
-/Login 
-/Register
-/Product
-/Product/New
-/Reviews(Blog)
-/Cart/(user-id)      
+- /Login 
+- /Register
+- /Product
+- /Product/New
+- /Reviews(Blog)
+- /Cart/(user-id)      
 
 ### Project Tracker
 
